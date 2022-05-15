@@ -4,8 +4,8 @@ global.DeveloperMode = 'false' // true or false
 global.linkGC = ['https://chat.whatsapp.com/JgFOfu182li7kG6dlKcwzD']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '628818770766': { // 628818770766
-    name: 'Zevano',
+  '6282313970934': { // 6282313970934
+    name: 'Zena',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true, // if true this number will send if user use command /owner or /creator
     isDev: true
